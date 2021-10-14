@@ -1,7 +1,9 @@
-## Hello there 👋 my name's Matheus but you can call me Matth
+## Matheus Cardoso
+
+Enthusiast of the best web & front end development technologies.
+
 - 🔭 I’m currently working on some personal web projects
 - 🌱 I’m currently learning JavaScript
-- 😄 Pronouns: he/him
 <div align="left">
   <a href="https://github.com/user-matth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=user-matth&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

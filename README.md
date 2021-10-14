@@ -1,4 +1,4 @@
-## Matheus Cardoso
+## Hey, I'm Matheus Cardoso!
 
 Enthusiast of the best web & front end development technologies.
 
@@ -7,7 +7,7 @@ Enthusiast of the best web & front end development technologies.
 <div>
   <a href="https://github.com/user-matth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=user-matth&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-matth&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-matth&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>

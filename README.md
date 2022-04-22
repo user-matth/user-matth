@@ -4,8 +4,9 @@ Enthusiast of the best web & front end development technologies.
 
 - I'm a Computer Science student in Brazil!
 - 🔭 I’m currently working on some personal web projects
-- 🌱 I’m currently learning JavaScript
-- 📒 I'm a GrassHooper student
+- 🌱 Front-end Web Developer
+- 📒 Angular/React
+- Currently studing Ruby
 
 <div>
   <a href="https://github.com/user-matth">

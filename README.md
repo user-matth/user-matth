@@ -2,7 +2,7 @@
 
 <p>Front End Developer at Anexo Soluções</p>
 
-- I'm a Computer Science student in Brazil!
+- Computer Science student at UNIP-GO / Brazil!
 - 🔭 I’m currently working on some personal web projects
 - 🌱 Front-end Web Developer
 - 📒 Angular/React

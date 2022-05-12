@@ -1,6 +1,7 @@
 ## Hey 👋 I'm Matheus Cardoso!
 
 Enthusiast of the best web & front end development technologies.
+Front End Developer at Anexo Soluções
 
 - I'm a Computer Science student in Brazil!
 - 🔭 I’m currently working on some personal web projects

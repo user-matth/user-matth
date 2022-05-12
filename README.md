@@ -6,7 +6,7 @@ Enthusiast of the best web & front end development technologies.
 - 🔭 I’m currently working on some personal web projects
 - 🌱 Front-end Web Developer
 - 📒 Angular/React
-- ⚡ Currently studing Ruby 
+- ⚡ Currently studing Ruby on Rails
 
 <div align="center">
   <a href="https://github.com/user-matth">

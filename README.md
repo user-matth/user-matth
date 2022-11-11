@@ -1,11 +1,11 @@
 ## Hey 👋 I'm Matheus Cardoso!
 
-<p>Front End Developer at Anexo Soluções</p>
+<p>Fullstack Developer at Anexo Soluções</p>
 
 - Computer Science student at UNIP-GO / Brazil!
-- 🔭 I’m currently working on some personal web projects
-- 🌱 Front-end Web Developer
-- 📒 Angular/React
+- 🔭 I’m currently working on some web and mobile projects
+- 🌱 Fullstack Developer
+- 📒 Angular/React/RoR/Flutter | Node 
 - ⚡ Currently studing Ruby on Rails
 
 <div align="center">

@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on some web and mobile projects
 - 🌱 Fullstack Developer
 - 📒 Angular/React/RoR/Flutter | Node 
-- ⚡ Currently studing Ruby on Rails
+- ⚡ Currently studing Ruby on Rails and Flutter w/ Dart
 
 <div align="center">
   <a href="https://github.com/user-matth">

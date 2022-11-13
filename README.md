@@ -1,42 +1,44 @@
-## Hey 👋 I'm Matheus Cardoso!
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/user-matth/bdcfa238abec6ce62f201944400bc4cf/raw/d69ec06ff0fbc3b132db9fb88eba5b160895d230/githubcard.svg"/>
+<h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Cardoso</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=user-matth&color=yellow" alt="Profile views" /> </p>
 
-<p>Fullstack Developer at Anexo Soluções</p>
+- 🔥 Junior Full-stack Developer focused on helping people to solve problems with code 
 
-- Computer Science student at UNIP-GO / Brazil!
-- 🔭 I’m currently working on some web and mobile projects
-- 🌱 Fullstack Developer
-- 📒 Angular/React/RoR/Flutter | Node 
-- ⚡ Currently studing Ruby on Rails and Flutter w/ Dart
+- 🔭 I’m currently working at [Anexo Soluções](https://anexosolucoes.com.br/)
 
-<div align="center">
-  <a href="https://github.com/user-matth">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=user-matth&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-matth&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block" align="center" ><br>
-  <img align="center" alt="Math-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Math-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Math-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Math-Bts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Math-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Math-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
-  <img align="center" alt="Math-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-</div>
+- 🌱 I’m currently learning Python, Java, RoR, Node.JS
 
-##
-  
-<div align="center">
-  <a href="https://instagram.com/cardoso.matheuus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheus.pessoal1@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-cardoso-silva-ab9467182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-  ![Snake animation](https://github.com/user-matth/user-matth/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  
-  
+- 💬 Ask me about **JavaScript, Typescript, Angular, React, Ruby on Rails, HTML, CSS, Node.JS**
+
+- 👨‍💻 More at [mcardoso.dev](https://mcardoso.dev)
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/import_cardoso" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-import_cardoso-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/cardoso-dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-cardoso_dev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/cardoso.matheuus" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-cardoso.matheuus-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="mailto:mathuscardoso@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail" alt="instagram"/>
+</a>
+</p>
+
+<!--
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

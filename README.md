@@ -23,8 +23,8 @@
 <a href="https://www.linkedin.com/in/cardoso-dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-cardoso_dev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/cardoso.matheuus" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-cardoso.matheuus-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/mcardoso.dev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-mcardoso.dev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="mailto:mathuscardoso@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail" alt="instagram"/>

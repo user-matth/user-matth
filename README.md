@@ -2,13 +2,11 @@
 <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Cardoso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user-matth&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Full-stack Developer focused on helping people to solve problems with code 
+- 🔥 Software Developer focused on helping people to solve problems with code 
 
-- 🔭 I’m currently working at [Anexo Soluções](https://anexosolucoes.com.br/)
+- 🔭 I’m currently working at [4 Selet](https://4selet.com.br/)
 
-- 🌱 I’m currently learning Python, Java, RoR, Node.JS
-
-- 💬 Ask me about **JavaScript, Typescript, Angular, React, Ruby on Rails, HTML, CSS, Node.JS**
+- 💬 Ask me about **JavaScript, Typescript, Angular, React, Ruby on Rails, Node.JS**
 
 - 👨‍💻 More at [mcardoso.dev](https://mcardoso.dev)
 

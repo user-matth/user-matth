@@ -2,9 +2,9 @@
 
 Software Engineer.
 
-Currently at [4Selet](https://4selet.com.br/). Formerly at [Anexo Soluções](https://www.anexosolucoes.com.br/)
+Currently at [@4Selet](https://4selet.com.br/), formerly at [@Santa Marta](https://www.drogariasantamarta.com.br/) and [@Rode Rotas](https://roderotas.com/)(through [@Anexo](https://www.anexosolucoes.com.br/))
 
-Development, UI, and Performance are my favorite topics.
+Software Development, UI, and Performance are my favorite topics.
 
 Twitter: [@import_cardoso](https://twitter.com/import_cardoso)  
 LinkedIn: [@cardoso-dev](https://www.linkedin.com/in/cardoso-dev/)

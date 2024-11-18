@@ -1,8 +1,8 @@
 # Cardoso
 
-Software Engineer.
+Mobile SWE II.
 
-Currently at [@4Selet](https://4selet.com.br/), formerly at [@Santa Marta](https://www.drogariasantamarta.com.br/) and [@Rode Rotas](https://roderotas.com/)(through [@Anexo](https://www.anexosolucoes.com.br/))
+Currently at [@4Selet](https://4selet.com.br/), formerly at [@Santa Marta](https://www.drogariasantamarta.com.br/) and [@Rode Rotas](https://roderotas.com/)(through [@Anexo](https://www.anexosolucoes.com.br/)) also [@GoiasEC](https://www.goiasec.com.br/) (through [@CITSystems](https://www.linkedin.com/company/citsystems/))
 
 Software Development, UI, and Performance are my favorite topics.
 

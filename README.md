@@ -6,7 +6,7 @@ Currently at [@4Selet](https://4selet.com.br/), formerly at [@Santa Marta](https
 
 Software Development, UI, and Performance are my favorite topics.
 
-Twitter: [@import_cardoso](https://twitter.com/import_cardoso)  
+Twitter: [@cardoso_dmg](https://twitter.com/cardoso_dmg)  
 LinkedIn: [@cardoso-dev](https://www.linkedin.com/in/cardoso-dev/)
 
 Reach out at [contact@mcardoso.dev](mailto:contact@mcardoso.dev) 
